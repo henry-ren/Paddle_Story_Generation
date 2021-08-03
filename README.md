@@ -16,6 +16,8 @@
   通过这款 AIDungeon 2 ，玩家将接触到一个完全自由的虚拟世界。整个游戏世界，都将围绕着玩家的输入展开与续写，可谓真正的 Everything is in my hands
   
   https://play.aidungeon.io/main/home
+  
+**快速使用**
 
 直接使用了paddlenlp引入的预训练模型
 
