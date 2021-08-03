@@ -13,7 +13,9 @@
   无限流小说的开山鼻祖，包罗万象的世界观，包含无限的可能性 
 + 2.AI Dungeon
 
-  通过这款 AIDungeon 2 ，玩家将接触到一个完全自由的虚拟世界。整个游戏世界，都将围绕着玩家的输入展开与续写，可谓真正的 *Everything is in my hands
+  通过这款 AIDungeon 2 ，玩家将接触到一个完全自由的虚拟世界。整个游戏世界，都将围绕着玩家的输入展开与续写，可谓真正的 Everything is in my hands
+  
+  {https://play.aidungeon.io/main/home}
 
 直接使用了paddlenlp引入的预训练模型
 
